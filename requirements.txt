@@ -3,3 +3,4 @@ gunicorn==23.0.0
 flask-cors==5.0.1
 requests==2.32.3
 python-dotenv==1.1.0
+python-binance==1.0.19
